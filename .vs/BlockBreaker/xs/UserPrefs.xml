@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{B673CBF3-9144-4F0F-B8B9-41716440C694}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameStatus.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Ball.cs" Line="55" Column="45" />
+      <File FileName="Assets/Scripts/Block.cs" Line="21" Column="32" />
+      <File FileName="Assets/Scripts/Level.cs" Line="26" Column="41" />
+      <File FileName="Assets/Scripts/GameStatus.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BlockBreaker" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="GameStatus.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="cdb4312d-bada-4196-922d-612e383c344c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
